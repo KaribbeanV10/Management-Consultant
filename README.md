@@ -1,7 +1,5 @@
 # Management-Consultant
 
-# Multifaceted Analysis Project Repository
-
 ## Overview
 
 The primary goal of this project is to harness data-driven insights to make informed decisions, optimize financial strategies, and enhance operational efficiency.
